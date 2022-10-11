@@ -31,9 +31,6 @@ while current_savings < portion_down_payment:
     if n_of_months % 6 == 0:
         #this re-adjusts the monthly salary
         monthly_salary += (monthly_salary * semi_annual_raise)
-        
-                
-    
 
 print('Number of months: ', n_of_months)
 print('Number of years: ', 'roughly', n_of_months//12)
