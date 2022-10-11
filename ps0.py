@@ -8,10 +8,8 @@ Created on Mon Oct 10 14:15:29 2022
 
 import numpy as np
 
-x_input = input('Enter number x: ')
-x = int(x_input)
-y_input = input('Enter number y: ')
-y = int(y_input)
+x = int(input('Enter number x: '))
+y = int(input('Enter number y: '))
 x_y = x**y
 print('X**y = ',x_y)
 print ('log(x) = ',np.log2(x))
