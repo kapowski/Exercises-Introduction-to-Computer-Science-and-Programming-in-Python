@@ -1,11 +1,10 @@
-# I had alot of difficulty with this problem and, in the end, could not
-# complete it on my own. I spent a lot of time on stack overflow, github and 
-# reddit looking for solutions and ended up essentially copying this source:
-# https://www.reddit.com/r/learnpython/comments/6bdbxq/mit_60001_introduction_to_cs_with_python_fall/
+# I had alot of difficulty with this problem and, in the end, could not complete it on my own. I spent a lot of time on stack overflow, github and 
+# reddit looking for solutions and ended up essentially copying this source: 
 
-# I rewrote the variable names and studied it to help me understnand and
-# believe that I have it mostley figured out. However, I still don't beleive
-# I would be capable of coming up with this on my own as of the time of this submission
+#https://www.reddit.com/r/learnpython/comments/6bdbxq/mit_60001_introduction_to_cs_with_python_fall/
+
+# I rewrote the variable names and studied it to help me understnand and believe that I have it mostley figured out. However, I still don't beleive
+# I would be capable of coming up with this on my own as of the time of this submission.
 
 
 
