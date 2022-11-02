@@ -1,7 +1,7 @@
 # Problem Set 2, hangman.py
-# Name: 
-# Collaborators:
-# Time spent:
+# Name: jkantypowicz
+# Collaborators: Stack Overflow, Github
+# Time spent: Too much
 
 # Hangman Game
 # -----------------------------------
