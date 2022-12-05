@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 10 14:15:29 2022
 
-@author: jorda
+@author: jkantypowicz
 """
 #Practice Set 1 of INTRODUCTION TO COMPUTER SCIENCE AND PROGRAMMING IN PYTHON from OSSU
 
