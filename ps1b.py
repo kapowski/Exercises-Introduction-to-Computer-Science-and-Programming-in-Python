@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 11 14:38:52 2022
 
-@author: jorda
+@author: jkantypowicz
 """
 #Part A of Problem Set 1
 
